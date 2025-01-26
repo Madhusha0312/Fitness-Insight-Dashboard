@@ -9,15 +9,15 @@ This Power BI dashboard provides detailed insights into workout performance, hea
 ![Dynamic Slicers](Slicers.png)
 
 ## Features
-- **Calories Burned vs. Workout Duration:**  
+- **Calories Burned vs. Workout Duration By Workout Type:**  
   A scatter plot showing the relationship between calories burned and workout duration by workout type.  
   ![Calories Burned vs Workout Duration](CaloriesBurntVSWorkoutDurByType.png)
 
-- **Gender-wise Workout Frequency:**  
+- **Gender-wise Workout Frequency and Experience Levels:**  
   A bar chart comparing workout frequency across genders and experience levels.  
   ![Gender-wise Workout Frequency](Gender-WorkoutFreqNExpLevels.png)
 
-- **Fat Percentage and Water Intake by Age Group:**  
+- **Fat Percentage and Water Intake Across Age Groups:**  
   A line chart visualizing the correlation between fat percentage and water intake across different age groups.  
   ![Fat Percentage and Water Intake by Age Group](FatPerAndWaterIntakeAcrossAgeGroup.png)
 
